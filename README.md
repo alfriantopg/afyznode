@@ -1,2 +1,3 @@
 # Halo, I'm Alfri 😁
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afyznode&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=afyznode"/>
+<img alt="top langs" align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=afyznode&layout=compact"/>
